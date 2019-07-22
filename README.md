@@ -5,3 +5,5 @@
 * Alexander Agyeman-Nimako
 * Vincent Tetteh
 * Adagbe Benedicta Tyra
+* Loh Bridget Sitsofe
+
