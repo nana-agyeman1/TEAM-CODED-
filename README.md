@@ -3,4 +3,5 @@
 ### Team
 
 * Alexander Agyeman-Nimako
-* ...
+* Vincent Tetteh
+* Adagbe Benedicta Tyra
