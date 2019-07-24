@@ -1,12 +1,16 @@
 ## A Voting Machine Project
 
-### Team                                       Task
+### Team                                       
 
-* Alexander Agyeman-Nimako            Backend Python / GPIO Connection
-* Vincent Tetteh                      Frontend / GPIO Connection
-* Adagbe Benedicta Tyra               Frontend
-* Loh Bridget Sitsofe                 Backend Python 
-
+* Alexander Agyeman-Nimako            
+* Vincent Tetteh                      
+* Adagbe Benedicta Tyra               
+* Loh Bridget Sitsofe                  
+### Task
+Backend Python / GPIO Connection  --- Alexander
+Frontend / GPIO Connection   -------- Vincent
+Frontend  -------------------         Benedicta
+Backend Python     -----------------  Bridget
 ### Tech
 * Raspberry Pi
 * GPIO
