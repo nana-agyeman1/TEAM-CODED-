@@ -7,10 +7,10 @@
 * Adagbe Benedicta Tyra               
 * Loh Bridget Sitsofe                  
 ### Task
-# Backend Python / GPIO Connection  --- Alexander
-# Frontend / GPIO Connection   -------- Vincent
-# Frontend  -------------------         Benedicta
-# Backend Python     -----------------  Bridget
+### Backend Python / GPIO Connection  --- Alexander
+### Frontend / GPIO Connection   -------- Vincent
+### Frontend  -------------------         Benedicta
+### Backend Python     -----------------  Bridget
 ### Tech
 * Raspberry Pi
 * GPIO
