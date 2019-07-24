@@ -21,10 +21,23 @@ countVote2.set(0)
 countVote3 = tk.IntVar()
 countVote3.set(0)
 
+
+label1 = tk.Label(app, fg="green")
+label1.pack()
+
+#label = tk.Label(root, fg="green")
+#label.pack()
+#counter_label(label)
+#button = tk.Button(root, text='Stop', width=25, command=root.destroy)
+#button.pack()
+
+
+
 def addvote1():
     led1.on()
     button1.when_released = led1.off
     countVote1.set(1 + countVote1.get())
+    label1['text'] = "BENEDICTA final resultS = " + str(countVote1.get())
     print ("\tBENEDICTA final resultS = ", countVote1.get(),"\n")
 
 def addvote2():
