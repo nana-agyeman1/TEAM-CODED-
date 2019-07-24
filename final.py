@@ -1,5 +1,4 @@
 import RPi.GPIO as GPIO
-from grove_rgb_lcd import *
 import time
 
 state = 0
@@ -113,5 +112,5 @@ def startMachine():
                
     
     
-setRGB(0,0,255)
+
 startMachine()        
