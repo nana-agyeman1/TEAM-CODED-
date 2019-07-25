@@ -1,6 +1,7 @@
 import RPi.GPIO as GPIO
 from gpiozero import LED
 import time
+GPIO.setmode(GPIO.BCM)
 
 state = 0
 no_of_pos = 0
@@ -13,7 +14,7 @@ result_button = 20
 button1 = 6
 button2 = 12
 button3 = 13
-GPIO.setmode(GPIO.BCM)
+
 GPIO.setup(light1,GPIO.OUT)
 GPIO.setup(light2,GPIO.OUT)
 GPIO.setup(light3,GPIO.OUT)
